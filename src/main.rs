@@ -1,3 +1,7 @@
+//!
+//! Find this code at:
+//! https://github.com/maciejhirsz/sub0_examples
+//!
 use anyhow::Result;
 
 // mod ch0_str_slices;

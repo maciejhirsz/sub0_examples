@@ -1,3 +1,7 @@
+//!
+//! Find this code at:
+//! https://github.com/maciejhirsz/sub0_examples
+//!
 use std::fmt::{self, Display, Write};
 
 pub struct Hello<T> {

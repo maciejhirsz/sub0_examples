@@ -1,3 +1,7 @@
+//!
+//! Find this code at:
+//! https://github.com/maciejhirsz/sub0_examples
+//!
 // std::std::FromStr;
 // std::num::ParseIntError;
 

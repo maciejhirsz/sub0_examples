@@ -1,4 +1,7 @@
-
+//!
+//! Find this code at:
+//! https://github.com/maciejhirsz/sub0_examples
+//!
 struct Foo {
     vec1: Vec<i32>,
     vec2: Vec<i32>,
